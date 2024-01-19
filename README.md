@@ -4,13 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/Epic_Toons">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/Epic_Toons">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/codexbotzsupport">
+  <a href="https://t.me/Epic_Toons_Discuss">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/Epic_Toons)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/Epic_Toons_Discuss) For Support/Assistance And Our [Channel](https://www.telegram.dog/Epic_Toons) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
