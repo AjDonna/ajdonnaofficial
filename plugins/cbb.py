@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ Creator : <a href='tg://user?id={OWNER_ID}'>Owner Sama</a>\n○ Language : </a>\n○ Channel : @Epic_Toons\n○ Support Group : @Epic_Toons_Discuss</b>",
+            text = f"<b>○ Creator : <a href='tg://user?id={OWNER_ID}'>Owner Sama</a>\: </a>\n○ Channel : @Epic_Toons\n○ Support Group : @Epic_Toons_Discuss</b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
